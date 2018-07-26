@@ -1,11 +1,14 @@
 # Form Builder Task
-Welcome to the Form Builder application. This app is simple, you can create a custom form and anyone can submit answers.
+Welcome to the Form Builder application exam. This app is simple, you can create a custom form and anyone can submit answers.
 
-You can use **any stack** you like: any language for the server(java, c#, python, node and etc.), and any library for the client (React, Angular, Vue.js and etc.).
+
+You can use **any stack** you like: any language for the server(java, c#, python, node and etc.), and any framework for the javascript client part(React, Angular, Vue.js and etc.).
 
 glhf
 
 # Instructions
+
+You're required to build a Web-Application with the pages below.
 
 ## List of Pages
  * [Forms List Page](#forms-list-page)
@@ -41,6 +44,10 @@ For an url with the id of the form, you will see all the fields you created in t
 ### Form Submissions Page
 For an url with the id of the form, you will see all the form submissions in a table when each header is the field name, and each row is a submission with the user input.
 
+## Before Submitting
+* Make sure to use clean code.
+* Your data should be presistent and well structured. (sqlite, in-memory, etc.)
+* You might be required to explain your implementation, make sure you understand all your code.
 
 ## Submitting your project
 After you've completed your tasks, and you are ready to submit it, do the following:
